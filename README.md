@@ -12,8 +12,6 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación y Sistemas Inf
 ## 📚 ¿Qué estoy aprendiendo?
 - HTML, CSS, JavaScript
   
----
-
 
 ## 🛠️ Mis habilidades
 - **Lenguajes:** C++, JavaScript, HTML, CSS
@@ -22,7 +20,7 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación y Sistemas Inf
 
 ## 📫 ¿Cómo contactarme?
 - **Email:** [rojasfede2525@gmail.com](mailto:rojasfede@gmail.com)
-- **LinkedIn:** [Federico Rojas](www.linkedin.com/in/federico-rojas-4aa9522a5)
+- **LinkedIn:** [Federico Rojas](https://www.linkedin.com/in/federico-rojas-4aa9522a5)
 - **Instagram:** [@FeDev_R](https://www.instagram.com/fxdeerojxs/)
 
   
