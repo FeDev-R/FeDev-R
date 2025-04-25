@@ -4,7 +4,7 @@
 
 --
 
-#Español
+# Español
 # ¡Hola, soy **Fede** (FeDev-R)! 👋
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación y Sistemas Informáticos** en la **UTN (Universidad Tecnológica Nacional)** de Buenos Aires. Mi objetivo es dedicarme al desarrollo **Full Stack**.
