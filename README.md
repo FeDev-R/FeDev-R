@@ -30,6 +30,9 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación y Sistemas Inf
 
 **Descripción:**  
 Desarrollé un juego similar a **Vampire Survivors** utilizando **C++** y **SFML** en grupo. Es un juego de supervivencia en el que los ataques son automaticos, 
+
+![FeDev-R's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeDev-R&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=cobalt&bg_color=00000000&text_color=00bcd4)
+
 <!--
 **FeDev-R/FeDev-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
