@@ -29,7 +29,8 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación y Sistemas Inf
 ### **UTN Suvivors**
 
 **Descripción:**  
-Desarrollé un juego similar a **Vampire Survivors** utilizando **C++** y **SFML** en grupo. Es un juego de supervivencia en el que los ataques son automaticos, 
+Desarrollé un juego similar a **Vampire Survivors** utilizando **C++** y **SFML** en grupo. Es un juego de supervivencia en el que los ataques son automaticos, <br/>
+
 
 ![FeDev-R's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeDev-R&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=cobalt&bg_color=00000000&text_color=00bcd4)
 
