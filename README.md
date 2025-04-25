@@ -75,7 +75,6 @@ I enjoy listening to music and training **Muay Thai** as a hobby.
 - **Phone:** +54 11 3883-8721
 - **LinkedIn:** [Federico Rojas](https://www.linkedin.com/in/federico-rojas-4aa9522a5)
 
----
 
 ## 🌟 Featured Projects
 
