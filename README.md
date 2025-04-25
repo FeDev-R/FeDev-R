@@ -1,6 +1,6 @@
 **Languages:**
-- [English](#english-version)
-- [Español](#spanish-version)
+- [English](#English)
+- [Español](#Español)
 
 --
 
