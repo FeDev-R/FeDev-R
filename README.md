@@ -86,7 +86,7 @@ The protagonist of the game is my **Programming II** professor, which we designe
 This is just the first game I made; better things are coming!
 
 ## 📊 **GitHub Stats**
-![FeDev-R's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeDev-R&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=cobalt&bg_color=00000000&text_color=00bcd4)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FeDev-R&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/FeDev-R)
 
 <!--
 **FeDev-R/FeDev-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
