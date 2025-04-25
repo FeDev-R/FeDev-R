@@ -34,7 +34,7 @@ Me gusta escuchar música y entrenar Muay Thai como hobby.
 **Descripción:**  
 Desarrollé en grupo un juego inspirado en **Vampire Survivors** utilizando **C++** y **SFML** . Es un juego de supervivencia en el que los ataques son automaticos, y el jugador debe moverse eficientemente para sobrevivir a hordas de enemigos.
 El protagonista del juego es mi profesor de programacion II que diseñamos con Aseprite. Los jugadores podrán subir de nivel, desbloquear habilidades y enfrentarse a enemigos cada vez más desafiantes en una experiencia dinámica y entretenida, que combina humor, dedicación y aprendizaje técnico.<br/>
-Es solo el primer juego que hice, se vienen cosas mejores!
+Es solo el primer juego que hice; se vienen cosas mejores!
 
 # English
 # Hi, I'm **Fede** (FeDev-R)! 👋
