@@ -43,8 +43,6 @@ Desarrollé en grupo un juego inspirado en **Vampire Survivors** utilizando **C+
 El protagonista del juego es mi profesor de programacion II que diseñamos con Aseprite. Los jugadores podrán subir de nivel, desbloquear habilidades y enfrentarse a enemigos cada vez más desafiantes en una experiencia dinámica y entretenida, que combina humor, dedicación y aprendizaje técnico.<br/>
 Es solo el primer juego que hice; se vienen cosas mejores!
 
-## 📊 **Estadísticas de GitHub**
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FeDev-R&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/FeDev-R)
 
 # English
 # Hi, I'm **Fede** (FeDev-R)! 👋
@@ -85,8 +83,6 @@ I developed, in a group, a game inspired by **Vampire Survivors** using **C++** 
 The protagonist of the game is my **Programming II** professor, which we designed with **Aseprite**. Players can level up, unlock skills, and face increasingly challenging enemies in a dynamic and fun experience that combines humor, dedication, and technical learning.  
 This is just the first game I made; better things are coming!
 
-## 📊 **GitHub Stats**
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FeDev-R&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/FeDev-R)
 
 <!--
 **FeDev-R/FeDev-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
