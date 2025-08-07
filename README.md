@@ -40,9 +40,13 @@ Me gusta escuchar música y entrenar Muay Thai como hobby.
 
 **Descripción:**  
 Desarrollé en grupo un juego inspirado en **Vampire Survivors** utilizando **C++** y **SFML** . Es un juego de supervivencia en el que los ataques son automaticos, y el jugador debe moverse eficientemente para sobrevivir a hordas de enemigos.
-El protagonista del juego es mi profesor de programacion II que diseñamos con Aseprite. Los jugadores podrán subir de nivel, desbloquear habilidades y enfrentarse a enemigos cada vez más desafiantes en una experiencia dinámica y entretenida, que combina humor, dedicación y aprendizaje técnico.<br/>
+El protagonista del juego es mi profesor de programacion  que diseñamos con Aseprite. Los jugadores podrán subir de nivel, desbloquear habilidades y enfrentarse a enemigos cada vez más desafiantes en una experiencia dinámica y entretenida, que combina humor, dedicación y aprendizaje técnico.<br/>
 Es solo el primer juego que hice; se vienen cosas mejores!
 
+### **Simple Fighters**
+
+**Descripción:**  
+Desarrollé un juego de lucha en plataformas utilizando C++ y SFML, en el que dos jugadores se enfrentan en combates rápidos y estratégicos. Incluye mapas, personajes y ataques personalizados, combinando mecánicas de combate, animaciones con sprites y un sistema de colisiones propio, representando un gran paso en mi aprendizaje como programador.
 
 # English
 # Hi, I'm **Fede** (FeDev-R)! 👋
@@ -80,10 +84,13 @@ I enjoy listening to music and training **Muay Thai** as a hobby.
 
 **Description:**  
 I developed, in a group, a game inspired by **Vampire Survivors** using **C++** and **SFML**. It's a survival game where the attacks are automatic, and the player must move efficiently to survive waves of enemies.  
-The protagonist of the game is my **Programming II** professor, which we designed with **Aseprite**. Players can level up, unlock skills, and face increasingly challenging enemies in a dynamic and fun experience that combines humor, dedication, and technical learning.  
+The protagonist of the game is my **Programming ** professor, which we designed with **Aseprite**. Players can level up, unlock skills, and face increasingly challenging enemies in a dynamic and fun experience that combines humor, dedication, and technical learning.  
 This is just the first game I made; better things are coming!
 
+### **Simple fighters**
 
+**Description:**  
+Developed a platform fighting game using C++ and SFML, where two players face off in fast-paced and strategic battles. It includes custom maps, characters, and attacks, combining combat mechanics, sprite animations, and a custom collision system, marking a big step in my growth as a programmer.
 <!--
 **FeDev-R/FeDev-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
